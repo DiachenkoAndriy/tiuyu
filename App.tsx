@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { Header } from './components/Header';
 import { Section } from './components/Section';
 import { LectureBlock } from './components/LectureBlock';
